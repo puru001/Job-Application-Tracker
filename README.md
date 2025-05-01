@@ -1,2 +1,4 @@
 # Job-Application-Tracker
-Just a test app
+The application consists of 
+ - Backend - ASP.NET Core WebAPI  
+ - Frontend -Angular

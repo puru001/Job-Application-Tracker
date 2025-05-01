@@ -5,3 +5,6 @@ The application consists of
 
 # Running Backend - ASP.NET Core WebAPI
  Clone the Repository 
+
+# Running Frontend - Angular
+Clone the Repository 

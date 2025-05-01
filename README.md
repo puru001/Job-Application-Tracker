@@ -13,4 +13,6 @@ Clone the Repository
 Open the repository with visual studio code   
 go the root directory of the UI app   
 open the terminal and run npm install  
-then run ng serve  
+then run ng serve    
+copy the url and open in browser, this should show list of data from backend  
+

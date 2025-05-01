@@ -13,8 +13,11 @@ import { Router } from '@angular/router';
 export class AddJobApplicationComponent implements OnDestroy {
   model: AddJob;
   private addJobApplicationSubscription?: Subscription
+  today: string;
 
   constructor(private jobApplicationService: JobapplicationService, private router: Router){
+    const now = new Date();
+    this.today = now.toISOString().split('T')[0];
     this.model = {
       companyName: '',
       position: '',

@@ -3925,11 +3925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Collections\\projects\\API\\JobApplicationTracker\\JobApplicationTracker.csproj",
+      "projectUniqueName": "C:\\Collections\\projects\\public\\Job-Application-Tracker\\API\\JobApplicationTracker\\JobApplicationTracker.csproj",
       "projectName": "JobApplicationTracker",
-      "projectPath": "C:\\Collections\\projects\\API\\JobApplicationTracker\\JobApplicationTracker.csproj",
+      "projectPath": "C:\\Collections\\projects\\public\\Job-Application-Tracker\\API\\JobApplicationTracker\\JobApplicationTracker.csproj",
       "packagesPath": "C:\\Users\\impur\\.nuget\\packages\\",
-      "outputPath": "C:\\Collections\\projects\\API\\JobApplicationTracker\\obj\\",
+      "outputPath": "C:\\Collections\\projects\\public\\Job-Application-Tracker\\API\\JobApplicationTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

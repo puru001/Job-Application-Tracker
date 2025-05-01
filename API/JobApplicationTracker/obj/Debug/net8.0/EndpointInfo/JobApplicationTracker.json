@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/JobApplicationAPI": {
+    "/api/applications": {
       "get": {
         "tags": [
           "JobApplicationAPI"
@@ -125,7 +125,7 @@
         }
       }
     },
-    "/api/JobApplicationAPI/{id}": {
+    "/api/applications/{id}": {
       "get": {
         "tags": [
           "JobApplicationAPI"

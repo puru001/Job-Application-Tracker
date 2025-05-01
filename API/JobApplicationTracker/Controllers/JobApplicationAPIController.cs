@@ -14,7 +14,7 @@ using System.Net;
 
 namespace JobApplicationTracker.Controllers
 {
-    [Route("api/JobApplicationAPI")]
+    [Route("api/applications")]
     [ApiController]
     public class JobApplicationAPIController : ControllerBase
     {
